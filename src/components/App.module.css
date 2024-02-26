@@ -1,0 +1,15 @@
+.componentHeader {
+    border-bottom: 2px solid black;
+    margin: 0;
+    padding: 10px 20px 20px;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.subHeader {
+    font-size: smaller;
+}
+
+.secSubHeader {
+    font-size: large;
+}
